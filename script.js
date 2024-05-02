@@ -17,7 +17,8 @@ if (nome == "admin" && senha == "senha123") {
 }
 else {
     alert("Senha ou nome de usuário inválidos.");
-}*/
+}
+*/
 
 let dia = parseInt( prompt("Insira um número de 1 a 7."));
 
