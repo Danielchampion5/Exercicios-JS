@@ -15,5 +15,5 @@ switch(dia) {
 
     case 7: alert("Domingo"); break;
 
-    default: alert("Numero invalido inserido.");
+    default: alert("Numero invalido inserido."); break;
 }
