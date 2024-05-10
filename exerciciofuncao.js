@@ -107,9 +107,9 @@ function Exercicio06() {
 }
 
 function Menu() {
-    let opcao = parseInt(prompt("Deseja iniciar o programa\n1-Sim 2-Não"))
+    let opcao = parseInt(prompt("Deseja iniciar o programa\n1-Sim 0-Não"))
 
-    if (opcao == 2) {
+    if (opcao == 0) {
         alert("Fechando o programa...")
     }
 
